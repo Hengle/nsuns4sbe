@@ -15,5 +15,6 @@ Your preset id list must be in this format:
 XX XX = CHARACTER 1 NAME
 YY YY = CHARACTER 2 NAME
 and so on. Make sure you only put one character per line, and the preset ID must be splitted in two (DD00 must be written as DD 00).
+
 ===================================================================
 v0.1: First public release of NS4SBE.
